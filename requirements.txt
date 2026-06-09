@@ -1,0 +1,13 @@
+Flask
+joblib
+nltk
+scikit-learn
+numpy
+pandas
+gensim
+transformers
+torch
+matplotlib
+seaborn
+nbformat
+nbclient

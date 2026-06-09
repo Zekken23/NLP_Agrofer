@@ -1,0 +1,11 @@
+ID,Skenario,Akurasi,Precision,Recall,F1-Score
+EXP-1,BoW + Decision Tree,87.04,81.58,100.0,89.86
+EXP-2,BoW + Naive Bayes (Multinomial),92.59,90.91,96.77,93.75
+EXP-3,N-Gram + Decision Tree,87.04,81.58,100.0,89.86
+EXP-4,N-Gram + Naive Bayes (Multinomial),92.59,90.91,96.77,93.75
+EXP-5,TF-IDF + Decision Tree,87.04,81.58,100.0,89.86
+EXP-6,TF-IDF + Naive Bayes (Multinomial),88.89,85.71,96.77,90.91
+EXP-7,Word2Vec + Decision Tree,38.89,46.43,41.94,44.07
+EXP-8,Word2Vec + Naive Bayes (Gaussian),53.7,59.38,61.29,60.32
+EXP-9,IndoBERT + Decision Tree,44.44,51.61,51.61,51.61
+EXP-10,IndoBERT + Naive Bayes (Gaussian),55.56,61.29,61.29,61.29
