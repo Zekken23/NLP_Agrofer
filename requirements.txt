@@ -3,11 +3,7 @@ joblib
 nltk
 scikit-learn
 numpy
-pandas
 gensim
 transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
-matplotlib
-seaborn
-nbformat
-nbclient
