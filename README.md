@@ -1,3 +1,13 @@
+---
+title: Agrofer NLP Dashboard
+emoji: 🌾
+colorFrom: green
+colorTo: blue
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🌾 AgriNews AI - NLP News Classification Dashboard
 
 AgriNews AI adalah sebuah aplikasi berbasis web yang menggunakan teknik **Natural Language Processing (NLP)** dan **Machine Learning** untuk mengklasifikasikan apakah sebuah teks/judul berita termasuk dalam kategori **Berita Pertanian (Agriculture)** atau **Bukan Berita Pertanian**.
